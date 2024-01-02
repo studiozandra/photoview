@@ -90,3 +90,4 @@ web-build/
 !env.js
 
 /coverage
+app/i18n/workspace.code-workspace
